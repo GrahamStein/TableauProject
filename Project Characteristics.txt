@@ -1,0 +1,60 @@
+School info:
+Name
+Location
+Median gpa (FLAGS)
+Median sat (ADM)
+Graduation Rate (FLAGS)
+Admission Rate (ADM A/A/E)
+
+
+Student info:
+Name
+Location
+Age
+Parent Income
+Secondary School
+Secondary School GPA
+Secondary School Rank
+
+Test Info (ADM):
+10631 SATVR25
+10636 SATVR75
+10641 SATMT25
+10646 SATMT75
+10651 ACTCM25
+10656 ACTCM75
+10661 ACTEN25
+10666 ACTEN75
+10671 ACTMT25
+10676 ACTMT75
+
+
+
+Important Factors:
+Cost [Low Cost, Average Cost, High Cost]
+Gender Distribution (ADM-11001 ENRLM/11006 ENRLW)
+HCBU
+Location (Zip Code, Distance)
+Region (Bureau of Economic Analysis (BEA) regions (HD2016))
+Programs of Study (C - CIPCODE)
+School Size [Small School, Average School, Big10 School] (ADM-11011 ENRLT)
+City Size (Degree of Urbanization - HD2017)
+On Campus Housing
+Student/Professor Ratio
+In State/Out of State (IC-10961 TUITVARY)
+On Campus DayCare (IC-10801 STUSRV8)
+Part Time
+Religious Affiliation
+
+Return:
+Room and Board Cost		IC	10996	RMBRDAMT)
+Tuition Cost		IC
+Application Fee		IC	10911	APPLFEEU
+
+
+
+
+Filter By:
+Institutional category (HD2017)
+Sector of institution (HD2016)
+Level of institution (HD2016)
